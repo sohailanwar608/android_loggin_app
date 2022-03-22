@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">loginapp</string>
+    <string name="todo">TODO</string>
+    <string name="cafe_house">Cafe House</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="skip">Skip</string>
+    <string name="todo1">TODO</string>
+    <string name="uplaod_image">Uplaod Image</string>
+    <string name="name">Name</string>
+    <string name="_92324567234">+92324567234</string>
+    <string name="sohailanwar_gmail_com">sohailanwar@gmail.com</string>
+    <string name="sohailanwar">● ● ● ● ● ● ●</string>
+    <string name="or_with">or With</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="already_have_account_login">Already Have Account? Login</string>
+</resources>
